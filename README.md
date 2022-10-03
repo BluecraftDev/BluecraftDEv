@@ -21,9 +21,7 @@
 ★ Websites: 
 </details>
 <p>
-   My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
-   <a />
-
+   My projects: 
 ----
 </p>
 <p align="center">
@@ -47,15 +45,16 @@ Tools/Apps with which I use most </><br>
 ----
 <a href="https://open.spotify.com/user/zk6h6t97zorjil9k8jj3izle8" target="_blank"> Spotify</a>
 <br></br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&cover_image=true&theme=novatorem&show_offline=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
+</a>
 
 ----
 <div align="center">
-<a href="https://dsc.gg/badboy" target="_blank"> Discord Server</a>
+<a href="https://discord.gg/VaM3KKMz4j" target="_blank"> Discord Server</a>
 <br></br>
-<a href="https://dsc.gg/badboy">
-<img src="https://discordapp.com/api/guilds/459910889924067358/widget.png?style=banner2"></img>
-<a href="https://discord.com/users/445073800850046977"><img src="https://lanyard-profile-readme.vercel.app/api/445073800850046977?idleMessage=Probably%20Watching%20Anime&borderRadius=8px" /></a>
+<a href="https://discord.gg/VaM3KKMz4j">
+<img src="https://discordapp.com/api/guilds/1001097909485445190/widget.png?style=banner2"></img>
+<a href="https://discord.com/users/928412310249287691"><img src="https://lanyard-profile-readme.vercel.app/api/928412310249287691?idleMessage=Probably%20Watching%20Anime&borderRadius=8px" /></a>
 </div>
 
 ----
