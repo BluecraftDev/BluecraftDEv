@@ -85,15 +85,6 @@ Last Updated: Tuesday, August 9th, 2022, 2:46:44 PM (Indian Standard Time)
 10. ![repoCreated] Created new repository [BluecraftDev/musical-couscous](https://github.com/BluecraftDev/musical-couscous)
 <!--RECENT_ACTIVITY:end-->
 
-### 🚀 Stats
-
-- Created my github account **{{ ACCOUNT_AGE }}** years ago.
-- Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
-- Own **{{ REPOSITORIES }}** repositories and **{{ GISTS }}** gists.
-- Pushed **{{ COMMITS }}** commits to github.
-- Opened **{{ ISSUES }}** issues.
-- Submitted **{{ PULL_REQUESTS }}** pull requests.
-- Received **{{ STARS }}** stars from github users.
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
