@@ -1,34 +1,27 @@
 ----
 <p align="center">
-   <a href="https://github.com/Bad-Boy-Codes/">
-   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=Bad-Boy-Codes&style=flat-square&color=de1032">
+   <a href="https://github.com/BluecraftDev/">
+   <img title="Profile Views" src="https://komarev.com/ghpvc/?username=BluecraftDev">
    <a />
-   <a href="https://dsc.gg/badboy">
-   <img title="Discord Server" src="https://img.shields.io/discord/459910889924067358?label=Discord+Community&logo=discord&logoColor=fafafa&style=flat-square&color=de1032">
+   <a href="https://discord.gg/VaM3KKMz4j">
+   <img title="Discord Server" src="https://img.shields.io/discord/1001097909485445190?label=Discord+Community&logo=discord&logoColor=fafafa">
    <a /><a href="https://www.youtube.com/channel/UC9j9vzkxZvUHWOlDBx-fajw?sub_confirmation=1">
-   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&style=flat-square&color=de1032">
+   <img title="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UC9j9vzkxZvUHWOlDBx-fajw?label=You+Tube&logo=youtube&logoColor=fafafa&">
    <a />
    <br>
-   <a href="https://discord.com/users/445073800850046977">
-   <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/445073800850046977.png">
+   <a href="https://discord.com/users/928412310249287691">
+   <img title="Bad Boy Discord" src="https://discord.c99.nl/widget/theme-3/928412310249287691.png">
    <a />
 </p>
-<h4 align="center"> Hey I'm Bad Boy, Glad to see you here! I'm a student develper from India.<img src = "https://github.com/realatharv/GIFs/blob/main/Profile%20GIFs/when-you.gif" width = 40px></h4>
+<h4 align="center"> Hey I'm Bluecraft, Glad to see you here! I'm a student develper from UK.</h4>
 <details>
 <summary>About Me</summary><br>
-★ Currently working on websites and APIs<br></br>
-★ Otaku Weeb<br></br>
-★ Websites: <a href="https://api.badboy.is-a.dev">Api</a>, <a href="https://badboy.is-a.dev">Main Website</a>, <a href="https://semant.is-a.dev">Secondary Website</a>
+★ <br></br>
+★ <br></br>
+★ Websites: 
 </details>
 <p>
    My projects: <a href="https://top.gg/bot/858565390615707668" target="_blank">
-   <img alt="Suzumi" width="24px" src="https://i.imgur.com/lmp8A2o_d.webp?maxwidth=640&shape=thumb&fidelity=medium"><img alt="Suzumi-icon" width="70px"src="https://img.shields.io/badge/-Suzumi-de1032?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://dsc.gg/badboy" target="_blank">
-   <img title="Chizuru" width="17px" src="https://static.wikia.nocookie.net/kanojo-okarishimasu/images/b/b1/Chizuru_Profile_Pic_%28Anime%29.png/revision/latest?cb=20210131180844"><img title="Chizuru" width="70px"src="https://img.shields.io/badge/-Chizuru-e63ccc?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://discord.gg/UTQRXgUAAX" target="_blank">
-   <img title="Sevu" width="24px" src="https://i.imgur.com/dkFSAZZ.png"><img title="Sevu" width="56px"src="https://img.shields.io/badge/-Sevu-bc57ff?style=flat&logo=codeIgniter&logoColor=white"/>  
-   <a /><a href="https://api.badboy.is-a.dev/" target="_blank">
-   <img title="Api" width="54px" src="https://i.imgur.com/ODYGrmU.png"><img title="Api" width="56px"src="https://img.shields.io/badge/-Api-4599ff?style=flat&logo=maserati&logoColor=white"/>  
    <a />
 
 ----
@@ -52,10 +45,9 @@ Tools/Apps with which I use most </><br>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
 ----
-<a href="https://open.spotify.com/user/316xfhtouhtysqxs7sncspxxhwwu" target="_blank"> Spotify</a>
+<a href="https://open.spotify.com/user/zk6h6t97zorjil9k8jj3izle8" target="_blank"> Spotify</a>
 <br></br>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&redirect=true"><img src = "https://spotify-github-profile.vercel.app/api/view?uid=316xfhtouhtysqxs7sncspxxhwwu&cover_image=true&theme=novatorem&bar_color=ff8a8a&bar_color_cover=true"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zk6h6t97zorjil9k8jj3izle8&cover_image=true&theme=novatorem&show_offline=false&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
 ----
 <div align="center">
